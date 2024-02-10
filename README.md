@@ -53,7 +53,9 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+![1a](https://github.com/MrSanthosh-dev/WDM_EXP1/assets/117916573/f2b66d80-a4f6-4b8b-b3d3-3516baee7c81)
 
+![1bb](https://github.com/MrSanthosh-dev/WDM_EXP1/assets/117916573/729a9527-4617-48d0-8e0f-a1620fb832d2)
 
 
 ### PREPROCESSING
@@ -76,6 +78,10 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+![1c(i)](https://github.com/MrSanthosh-dev/WDM_EXP1/assets/117916573/5bd1fc56-2026-4052-8943-d50734b0b0ec)
+
+![1d(i)](https://github.com/MrSanthosh-dev/WDM_EXP1/assets/117916573/db2357be-1e24-403f-a01c-db41b8de78cf)
+
 ### 2) Remove -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -91,6 +97,9 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+
+
+
 
 ### Normalize -> Pre-Processing Technique:
 
