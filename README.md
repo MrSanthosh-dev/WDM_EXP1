@@ -116,7 +116,7 @@ rainy,75.0,80.0,false,yes
 
 ![1c(ii)](https://github.com/MrSanthosh-dev/WDM_EXP1/assets/117916573/a95ec296-d820-4414-b15e-02a273f71aec)
 
-### Normalize -> Pre-Processing Technique:
+### 3) Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
 2) Click on explorer.
